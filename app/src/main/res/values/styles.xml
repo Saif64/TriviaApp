@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="questionView_style">
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:fontFamily">@font/mitr_semibold</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:backgroundTint">#4CAF50</item>
+        <item name="android:fontFamily">@font/mitr_semibold</item>
+    </style>
+</resources>
